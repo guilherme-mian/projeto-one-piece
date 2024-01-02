@@ -1,0 +1,12 @@
+/* *{ É UM SELETOR UNIVERSAL, MEXE EM TODOS OS ELEMENTOS DO HTML, CTRL E ; ABRE O COMENT */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+    ul {
+        list-style: none;
+    }
+
+    
